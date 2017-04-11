@@ -1,5 +1,7 @@
 # p-is-hex
 
+Checks if a string is a valid hex color code, promisified
+
 ## Table of contents
 
 - [Installation](#installation)

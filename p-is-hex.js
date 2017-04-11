@@ -4,7 +4,7 @@
   /**
    * p-is-hex
    * 
-   * Checks if a string is a valid hex color code
+   * Checks if a string is a valid hex color code, promisified
    * 
    * @param {String} color_code
    * @return {Promise<Boolean>}
